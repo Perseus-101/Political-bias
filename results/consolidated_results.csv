@@ -1,0 +1,13 @@
+Model,Split,Macro F1,Acc.,MAE,Timestamp
+FacebookAI/roberta-base-triplet-pretrained,random,76.19,75.69,0.4,2025-03-26 20:10:16
+roberta-base-triplet-pretrained,random,78.7,77.77,0.38,2025-03-26 22:03:26
+roberta-base-baseline,random,77.67,77.31,0.36,2025-03-26 23:05:13
+FacebookAI/roberta-base-baseline,random,77.83,77.54,0.35,2025-03-26 23:23:51
+FacebookAI/roberta-base-baseline-max-performance,random,86.09,85.85,0.23,2025-03-27 00:14:49
+FacebookAI/roberta-base-baseline-high-learing-rate-5e-6,random,81.05,80.85,0.31,2025-03-27 01:07:44
+FacebookAI/roberta-base-baseline,random,85.24,85.15,0.23,2025-03-27 02:00:35
+roberta-base-baseline,random,85.02,84.92,0.23,2025-03-27 03:02:24
+FacebookAI/roberta-base-triplet-pretrained,random,77.85,77.0,0.39,2025-03-27 20:42:30
+FacebookAI/roberta-base-triplet-pretrained,random,78.59,77.77,0.38,2025-03-27 22:14:36
+FacebookAI/roberta-base-triplet-pretrained,random,84.8,84.85,0.25,2025-03-27 23:24:18
+FacebookAI/roberta-base-triplet-pretrained,random,78.14,77.62,0.37,2025-03-28 00:17:26
